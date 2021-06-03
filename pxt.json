@@ -1,5 +1,6 @@
 {
     "name": "First code on here and first Javacript code",
+    "version": "0.0.1",
     "description": "",
     "dependencies": {
         "core": "*",
